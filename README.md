@@ -18,6 +18,5 @@
 
 <p align="center" style="display: flex; justify-content: center;">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=theeBajber&theme=catppuccin_frappe&hide_border=true" />
-  <img width="48%" src="https://www.codewars.com/users/theeBajber/badges/large" alt="Codewars Badge"/>
 </p>
 
